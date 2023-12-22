@@ -1,0 +1,9 @@
+13:57:42 INFO ====== WebDriver manager ======
+13:57:45 INFO Get LATEST chromedriver version for google-chrome
+13:57:45 INFO Get LATEST chromedriver version for google-chrome
+13:57:46 INFO Driver [C:\Users\kds36\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+13:57:50 INFO Test1 Starting
+13:57:53 INFO Test2 starting
+13:58:02 INFO click_contact_us
+13:58:04 INFO Get alert message
+13:58:04 INFO Alert message is Form successfully submitted
